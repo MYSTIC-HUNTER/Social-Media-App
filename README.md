@@ -3,7 +3,7 @@
 👋 Introducing the NextGen Social Media App: Connecting People Like Never Before
 -
 Introduction:
-I am thrilled to share my latest project—a cutting-edge social media app that is set to revolutionize the way we connect and interact online. With a user-centric design and innovative features, this app aims to provide a seamless and engaging social networking experience for individuals worldwide.
+I am thrilled to share my latest project—a cutting-edge social media app called FoodSnap, that is set to revolutionize the way we connect and interact online. With a user-centric design and innovative features, this app aims to provide a seamless and engaging social networking experience for individuals worldwide.
 
 Usage:
 Our social media app is designed to foster meaningful connections, facilitate information sharing, and empower users to express themselves in a dynamic digital environment. From creating profiles and sharing updates to engaging in vibrant discussions and discovering new interests, our app offers a comprehensive range of functionalities to keep users engaged and connected.
