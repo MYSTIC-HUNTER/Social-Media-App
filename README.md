@@ -1,4 +1,4 @@
-# Social-Media-App
+# FoodSnap - The Social Media for Chefs
 -----
 👋 Introducing the NextGen Social Media App: Connecting People Like Never Before
 -
