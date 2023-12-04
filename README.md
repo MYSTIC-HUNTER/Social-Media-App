@@ -19,3 +19,4 @@ Join us on this exciting journey as we shape the future of social media and rede
 Feel free to reach out to me for more information or to join the app's beta testing phase. Let's revolutionize social media together!
 
 ----
+Note: This is NOT an app, but just some marketing research and analysis. It's more inclined to conceptualization and implementation of machine learning in a project.
